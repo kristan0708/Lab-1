@@ -1,1 +1,1 @@
-print("DO AIOT is a module in DCPE")
+print("DO AIOT")
