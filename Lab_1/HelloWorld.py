@@ -1,2 +1,1 @@
-print("DO AIOT")
-print("Shagg siaa")
+print("ET0735 - DevOps for AIOT")
